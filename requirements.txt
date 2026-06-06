@@ -6,4 +6,4 @@ matplotlib>=3.10.0
 seaborn>=0.13.0
 
 # TPR-DB Specific Library
-tprdb-utilities>=1.0.0
+tprdb-utilities>=2.0.0
