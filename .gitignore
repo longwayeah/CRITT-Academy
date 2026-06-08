@@ -217,5 +217,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# Mac Stuff
+.DS_Store
+
 # TPR-DB Utilities-specific directory to ignore
 tprdb-mothership-clone/
