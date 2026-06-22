@@ -12,3 +12,11 @@ CRITT Academy notebooks assume the environment you are running them in is using 
 The collection is organized into modules, and each module is organized into lessons. Here is a table of contents for the Modules:
 
 - **01** — [Foundations](modules/01_Foundations/README.md)
+<!-- - **06** - [Annotated Data]() -->
+<!-- - **02** - [Statistical Analysis]() -->
+<!--- **03** - [from-scratch Translation]()
+- **04** - [Post-editing]()
+- **05** - [Spoken Data]()
+- **07** — [Pause Analysis]()
+- **08** - [Pupillometry]()
+ -->
