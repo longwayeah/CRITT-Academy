@@ -6,12 +6,11 @@ A collection of educational resources for learning how to analyze translation pr
 The collection is organized into modules, and each module is organized into lessons. Here is a table of contents for the Modules:
 
 - **01** — [Foundations](modules/01_Foundations/README.md)
-- **02** - [Annotated Data](modules/02_Annotated_Data/README.md)
-- **03** - [Statistical Analysis](modules/03_Statistical_Analysis/)
+- **02** - [Statistical Analysis](modules/02_Statistical_Analysis/)
+- **03** - [Annotated Data](modules/03_Annotated_Data/README.md)
 - **04** - [Exploring Modalities](modules/04_Exploring_Modalities/)
-<!--- - **05** - [Advanced Stuff]() - Pause metrics, Entropy, Pupillometry
-- **06** - [Prompt Engineering]()
- -->
+- **05** - [Advanced Analysis](modules/05_Advanced_Analysis/) - Pause metrics, Entropy, Pupillometry
+<!-- - **06** - [Prompt Engineering]() -->
 
  ## Environment Requirements
 
