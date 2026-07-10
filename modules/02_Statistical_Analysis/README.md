@@ -1,4 +1,4 @@
-# Module 03: Statistical Analysis
+# Module 02: Statistical Analysis
 
 The lessons in this module will cover working using statistical analysis to investigate TPR-DB data.
 
