@@ -4,3 +4,4 @@ The lessons in this module will cover various types of advanced analysis, such a
 
 - Lesson 01: **[Pause-based Metrics](01_Pause_based_Metrics.ipynb)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Critt-Kent/CRITT-Academy/blob/main/modules/05_Advanced_Analysis/01_Pause_based_Metrics.ipynb)
 - Lesson 02: **[Automatic Quality Evaluation](02_Auto_Quality_Evaluation.ipynb)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Critt-Kent/CRITT-Academy/blob/main/modules/05_Advanced_Analysis/02_Auto_Quality_Evaluation.ipynb)
+- Lesson 03: **[Word Translation Entropy](03_Word_Translation_Entropy.ipynb)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Critt-Kent/CRITT-Academy/blob/main/modules/05_Advanced_Analysis/02_Word_Translation_Entropy.ipynb)
