@@ -4,6 +4,8 @@ The lessons in this module cover the basics of working with CRITT TPR-DB data.
 
 - Lesson 01: **[Using Code Notebooks with the TPR-DB](01_Notebooks_and_TPRDB.ipynb)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Critt-Kent/CRITT-Academy/blob/main/modules/01_Foundations/01_Notebooks_and_TPRDB.ipynb)
 
+    - [Version of Lesson 01 (Using Code Notebooks with the TPR-DB) for running on the CRITT server](01_Notebooks_and_TPRDB_CRITTserver.ipynb)
+
 - 🚧 Under Development 🚧 Lesson 02: **[Study Summary Info](02_Summary_Info.ipynb)** <!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Critt-Kent/CRITT-Academy/blob/main/modules/01_Foundations/02_Summary_Info.ipynb) -->
 
 - 🚧 Under Development 🚧 Lesson 03: **[Segment Tables](03_Segment_Tables.ipynb)** <!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Critt-Kent/CRITT-Academy/blob/main/modules/01_Foundations/03_Segment_Tables.ipynb) -->
@@ -12,7 +14,7 @@ The lessons in this module cover the basics of working with CRITT TPR-DB data.
 
 - Lesson 05: **[Pause-based Metrics](01_Pause_based_Metrics.ipynb)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Critt-Kent/CRITT-Academy/blob/main/modules/01_Foundations/05_Pause_based_Metrics.ipynb)
 
-    - [Version of Lesson 05 (Pause-based Metrics) for running on the CRITT server](01_Pause_based_Metrics.ipynb)**
+    - [Version of Lesson 05 (Pause-based Metrics) for running on the CRITT server](05_Pause_based_Metrics_CRITTserver.ipynb)
 
 - 🚧 Under Development 🚧 Lesson 06: **[Word Translation Entropy](06_Word_Translation_Entropy.ipynb)** <!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Critt-Kent/CRITT-Academy/blob/main/modules/01_Foundations/06_Word_Translation_Entropy.ipynb) -->
 
