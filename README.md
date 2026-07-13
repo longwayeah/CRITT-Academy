@@ -9,7 +9,7 @@ The collection is organized into modules, and each module is organized into less
 - **02** - [Statistical Analysis](modules/02_Statistical_Analysis/)
 - **03** - [Annotated Data](modules/03_Annotated_Data/README.md)
 - **04** - [Exploring Modalities](modules/04_Exploring_Modalities/)
-- **05** - [Advanced Analysis](modules/05_Advanced_Analysis/) - Pause metrics, Entropy, Pupillometry
+- **05** - [Advanced Analysis](modules/05_Advanced_Analysis/)
 <!-- - **06** - [Prompt Engineering]() -->
 
  ## Environment Requirements
