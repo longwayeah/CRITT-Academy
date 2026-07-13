@@ -22,9 +22,6 @@ The lessons in this module cover the basics of working with CRITT TPR-DB data.
 
 <footer>
     <aside aria-label="Legend">
-        <dl>
-            <dt><abbr title="Still under development">🚧</abbr></dt>
-            <dd>Still under development</dd>
-        </dl>
+        <p><dfn>🚧</dfn> = <span>Still under development</span></p>
     </aside>
 </footer>
