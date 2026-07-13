@@ -20,8 +20,4 @@ The lessons in this module cover the basics of working with CRITT TPR-DB data.
 
 - <abbr title="Still under development">🚧</abbr> Lesson 07: **[Recalculating Word Translation Entropy from Multiple Studies](03_Word_Translation_Entropy_Multiple_Studies.ipynb)** <!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Critt-Kent/CRITT-Academy/blob/main/modules/01_Foundations/06_Word_Translation_Entropy_Multiple_Studies.ipynb) -->
 
-<footer>
-    <aside aria-label="Legend">
-        <p><dfn>🚧</dfn> = <span>Still under development</span></p>
-    </aside>
-</footer>
+<p><dfn>🚧</dfn> = <span>Still under development</span></p>
