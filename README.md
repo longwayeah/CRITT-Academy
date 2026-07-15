@@ -1,3 +1,6 @@
+![CRITT Academy logo](assets/images/logo_CRITT_Academy_light.svg#gh-light-mode-only)
+![CRITT Academy logo](assets/images/logo_CRITT_Academy_dark.svg#gh-dark-mode-only)
+
 # CRITT Academy
 A collection of educational resources for learning how to analyze translation process research data processed and stored by the Translation Process Research Database (TPR-DB)
 
