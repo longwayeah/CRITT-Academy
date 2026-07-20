@@ -18,6 +18,6 @@ The lessons in this module cover the basics of working with CRITT TPR-DB data.
 
 - <abbr title="Still under development">🚧</abbr> Lesson 06: **[Word Translation Entropy](06_Word_Translation_Entropy.ipynb)** <!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Critt-Kent/CRITT-Academy/blob/main/modules/01_Foundations/06_Word_Translation_Entropy.ipynb) -->
 
-- <abbr title="Still under development">🚧</abbr> Lesson 07: **[Recalculating Word Translation Entropy from Multiple Studies](03_Word_Translation_Entropy_Multiple_Studies.ipynb)** <!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Critt-Kent/CRITT-Academy/blob/main/modules/01_Foundations/06_Word_Translation_Entropy_Multiple_Studies.ipynb) -->
+- <abbr title="Still under development">🚧</abbr> Lesson 07: **[Recalculating Word Translation Entropy from Multiple Studies](07_Word_Translation_Entropy_Multiple_Studies.ipynb)** <!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Critt-Kent/CRITT-Academy/blob/main/modules/01_Foundations/07_Word_Translation_Entropy_Multiple_Studies.ipynb) -->
 
 <p><dfn>🚧</dfn> = <span>Still under development</span></p>
